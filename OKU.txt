@@ -1,0 +1,9 @@
+YERALTI karakter ekrani
+
+src/components/yeralti-app.tsx  ekranin kendisi
+src/styles.css                  renk ve yerlesim
+src/routes/index.tsx            sayfa girisi
+public/yeralti                  portre, arka plan, ikonlar
+
+Ust sira: YM, Guc, Can, Para, Mermi
+YM = Yeralti Money. Mermi tek sayi. Guc yuzde.
